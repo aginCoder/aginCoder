@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="assets/200w (1).webp" width="15%">
+<img src="assets/200w (1).webp" width="30%">
 
 <a href="https://git.io/typing-svg">![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&lines=Hi+there+👋,+I+am+Ân;Welcome+to+my+profile!)</a>
 
 </div>
 
 ###
+
+<p align="center"><a href="https://anuraghazra.github.io"><img width="30%" src="./img/CV_2.jpg" /></a></p>
+
+<br />
 
 I am a self-taught, passionate Backend developer from Vietnam.
 
