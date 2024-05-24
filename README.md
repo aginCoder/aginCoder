@@ -1,6 +1,12 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="30%" alt="Hello, I'm Ân. I do open source!" src="./img/CV_2.jpg" /></a></p>
+<div align="center">
 
-<br />
+<img src="assets/200w (1).webp" width="15%">
+
+<a href="https://git.io/typing-svg">![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&lines=Hi+there+👋,+I+am+Ân;Welcome+to+my+profile!)</a>
+
+</div>
+
+###
 
 I am a self-taught, passionate Backend developer from Vietnam.
 
