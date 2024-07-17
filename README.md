@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="30%" src="./img/CV_2.jpg" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="30%" src="./img/avt.jpg" /></a></p>
 
 <br />
 
